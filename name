@@ -1,0 +1,17 @@
+input:
+
+#include <stdio.h>
+
+int main()
+{
+    printf("anusha");                                                                                                                   
+                                                                                                                    
+    return 0;
+}
+
+output:
+
+anusha                                                                                                                         
+                                                                                                                               
+...Program finished with exit code 0                                                                                           
+Press ENTER to exit console.                                                                                                   
